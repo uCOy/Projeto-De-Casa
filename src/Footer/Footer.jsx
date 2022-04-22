@@ -14,7 +14,7 @@ function Footer(){
                         {/* UF = UL do Footer */}
                         <li className="LF">Estofados Oliveira ©copy 2022. Todos direitos reservados.</li>  
                     </div>
-                    <ul class="UF">
+                    <ul className="UF">
                         <li className="LF"><a className="LIF" href=""><img src={LogoFacebook} alt="Facebook"/></a></li>            
                         <li className="LF"><a className="LIF" href=""><img src={LogoInstagram} alt="Instagram"/></a></li>  
                         <li className="LF"><a className="LIF" href=""><img src={LogoWhasapp} alt="Whatsapp"/></a></li>
